@@ -1,0 +1,3 @@
+../Middlewares/STM32F429I-DISC1-LCD/pantallaLCD/Componentes/graph.c:20:6:InicializaLineGraph	2
+../Middlewares/STM32F429I-DISC1-LCD/pantallaLCD/Componentes/graph.c:45:6:DrawGraph	2
+../Middlewares/STM32F429I-DISC1-LCD/pantallaLCD/Componentes/graph.c:72:6:updateGraph	2

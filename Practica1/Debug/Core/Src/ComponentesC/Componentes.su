@@ -1,0 +1,16 @@
+../Core/Src/ComponentesC/Componentes.c:20:6:InicializaBarraProgreso	24	static
+../Core/Src/ComponentesC/Componentes.c:35:6:InicializaPulsador	24	static
+../Core/Src/ComponentesC/Componentes.c:52:6:InicializaInterruptor	24	static
+../Core/Src/ComponentesC/Componentes.c:66:6:inicializaBarraTexto	24	static
+../Core/Src/ComponentesC/Componentes.c:83:6:inicializaEtiqueta	24	static
+../Core/Src/ComponentesC/Componentes.c:97:6:inicializaEditorTexto	64	static
+../Core/Src/ComponentesC/Componentes.c:136:6:DibujaPulsador	80	static
+../Core/Src/ComponentesC/Componentes.c:160:6:DibujaInterruptor	88	static
+../Core/Src/ComponentesC/Componentes.c:184:6:dibujaBarraTexto	72	static
+../Core/Src/ComponentesC/Componentes.c:220:6:dibujaEtiqueta	48	static
+../Core/Src/ComponentesC/Componentes.c:233:6:dibujaEditorTexto	216	static
+../Core/Src/ComponentesC/Componentes.c:283:6:VerificaBarraProgreso	72	static
+../Core/Src/ComponentesC/Componentes.c:335:6:fBarraProgreso	24	static
+../Core/Src/ComponentesC/Componentes.c:353:6:VerificaPulsador	40	static
+../Core/Src/ComponentesC/Componentes.c:375:6:VerificaInterruptor	40	static
+../Core/Src/ComponentesC/Componentes.c:401:6:verificaEditorTexto	216	static

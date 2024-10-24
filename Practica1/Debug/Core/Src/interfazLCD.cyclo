@@ -1,0 +1,7 @@
+../Core/Src/interfazLCD.c:7:6:LCD_inicializaBoton	1
+../Core/Src/interfazLCD.c:46:6:LCD_setVisibilidadBoton	1
+../Core/Src/interfazLCD.c:52:6:LCD_setHabilitacionBoton	1
+../Core/Src/interfazLCD.c:58:6:LCD_setTextoBoton	1
+../Core/Src/interfazLCD.c:66:6:LCD_setColorTextoBoton	1
+../Core/Src/interfazLCD.c:72:6:LCD_setImagenBoton	1
+../Core/Src/interfazLCD.c:78:6:LCD_atiendeBoton	12

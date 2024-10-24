@@ -1,0 +1,16 @@
+../Middlewares/STM32F429I-DISC1-LCD/pantallaLCD/Componentes/Componentes.c:20:6:InicializaBarraProgreso	1
+../Middlewares/STM32F429I-DISC1-LCD/pantallaLCD/Componentes/Componentes.c:35:6:InicializaPulsador	1
+../Middlewares/STM32F429I-DISC1-LCD/pantallaLCD/Componentes/Componentes.c:52:6:InicializaInterruptor	1
+../Middlewares/STM32F429I-DISC1-LCD/pantallaLCD/Componentes/Componentes.c:66:6:inicializaBarraTexto	1
+../Middlewares/STM32F429I-DISC1-LCD/pantallaLCD/Componentes/Componentes.c:83:6:inicializaEtiqueta	1
+../Middlewares/STM32F429I-DISC1-LCD/pantallaLCD/Componentes/Componentes.c:97:6:inicializaEditorTexto	1
+../Middlewares/STM32F429I-DISC1-LCD/pantallaLCD/Componentes/Componentes.c:136:6:DibujaPulsador	1
+../Middlewares/STM32F429I-DISC1-LCD/pantallaLCD/Componentes/Componentes.c:160:6:DibujaInterruptor	1
+../Middlewares/STM32F429I-DISC1-LCD/pantallaLCD/Componentes/Componentes.c:184:6:dibujaBarraTexto	3
+../Middlewares/STM32F429I-DISC1-LCD/pantallaLCD/Componentes/Componentes.c:220:6:dibujaEtiqueta	3
+../Middlewares/STM32F429I-DISC1-LCD/pantallaLCD/Componentes/Componentes.c:233:6:dibujaEditorTexto	1
+../Middlewares/STM32F429I-DISC1-LCD/pantallaLCD/Componentes/Componentes.c:283:6:VerificaBarraProgreso	3
+../Middlewares/STM32F429I-DISC1-LCD/pantallaLCD/Componentes/Componentes.c:335:6:fBarraProgreso	3
+../Middlewares/STM32F429I-DISC1-LCD/pantallaLCD/Componentes/Componentes.c:353:6:VerificaPulsador	9
+../Middlewares/STM32F429I-DISC1-LCD/pantallaLCD/Componentes/Componentes.c:375:6:VerificaInterruptor	7
+../Middlewares/STM32F429I-DISC1-LCD/pantallaLCD/Componentes/Componentes.c:401:6:verificaEditorTexto	12
